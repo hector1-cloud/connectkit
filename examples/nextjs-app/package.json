@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.17.15",
-    "connectkit": "workspace:packages/connectkit",
+    "connectkit": "0.0.1",
     "next": "14.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
